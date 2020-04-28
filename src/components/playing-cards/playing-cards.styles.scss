@@ -1,0 +1,17 @@
+.card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+.card {
+    height: 75px;
+    width: 25%;
+    border: 1px solid black;
+    background-color: white;
+    margin: 5px;
+}
+
+.card-value {
+    display: flex;
+    padding: 5px;
+    font-size: 30px;
+}

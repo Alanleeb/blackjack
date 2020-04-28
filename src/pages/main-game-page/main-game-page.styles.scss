@@ -1,0 +1,32 @@
+
+.game-layout {
+    height: 100vh;
+    background-color: #008000;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+} 
+
+.game-name {
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Fascinate Inline', cursive;
+}
+
+.players {
+    display: flex;
+   justify-content: center;
+}
+
+.footer {
+
+    height: 75px;
+    background-color: #a0522d;
+}
+
+
+.dealer {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,20 @@
+.player-card {
+    border: 2px solid white;
+    padding: 25px;
+    width: 20%;
+    margin: 25px;
+    text-align: center;
+   
+}
+
+.player-controls {
+    
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-holder {
+    width: 100%;
+    margin: 10px;
+}
